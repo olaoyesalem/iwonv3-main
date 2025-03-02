@@ -1,0 +1,8 @@
+{"level":"error","message":"Error during CRON operation: Cannot set properties of null (setting 'profitBalance')","timestamp":"2025-01-17 13:01:44"}
+{"level":"error","message":"Error during CRON operation: Cannot set properties of null (setting 'profitBalance')","timestamp":"2025-01-17 13:12:45"}
+{"level":"error","message":"Error during CRON operation: Cannot set properties of null (setting 'profitBalance')","timestamp":"2025-01-17 13:19:37"}
+{"level":"error","message":"Error during CRON operation: Cannot set properties of null (setting 'profitBalance')","timestamp":"2025-01-17 13:24:07"}
+{"level":"error","message":"Error during CRON operation: Cannot set properties of null (setting 'profitBalance')","timestamp":"2025-01-17 13:24:35"}
+{"level":"error","message":"Error during CRON operation: Cannot read properties of null (reading '_id')","timestamp":"2025-01-17 13:28:47"}
+{"level":"error","message":"Error during CRON operation: Transaction validation failed: userId: Path `userId` is required.","timestamp":"2025-01-17 13:33:55"}
+{"level":"error","message":"Error during CRON operation: Transaction validation failed: userId: Path `userId` is required.","timestamp":"2025-01-17 13:34:51"}
