@@ -20,7 +20,9 @@ export async function getAssetTransfers(address: string) {
   });
 
   return data;
+  
 }
+
 
 
 
