@@ -21,3 +21,23 @@ export async function getAssetTransfers(address: string) {
 
   return data;
 }
+
+
+
+
+const xApiKey = "t-6747a128d1882d62e22d569c-7afe00541b8744f98cb6c9c4"
+
+
+export const tron_req = axios.create({
+  baseURL: "https://api.tatum.io/v3/tron",
+  headers: {
+    "x-api-key": xApiKey,
+  },
+});
+
+export const tatum_req = axios.create({
+  baseURL: "https://api.tatum.io",
+  headers: {
+    "x-api-key": xApiKey,
+  },
+});
